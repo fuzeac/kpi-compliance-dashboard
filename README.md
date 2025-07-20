@@ -1,4 +1,4 @@
-# fuze-kpi-compliance-dashboard
+# KPI Compliance Dashboard
 
 > **Live CEX KPI observability for Web3 tokens**  
 > Next.js (React 18) frontend ＋ Grafana + TimescaleDB stack, shipped as a one‑command Docker bundle.
